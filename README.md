@@ -1,0 +1,2 @@
+# Watermarker-PHP
+Add_Timestamp_Watermark_To_Image_Using_Php-Imagick
